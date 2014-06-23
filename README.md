@@ -5,3 +5,8 @@
 <https://github.com/flash2048/CSharp/blob/master/Strings_and_Arrays/Permutations.cs>
 
 ======
+
+**Конвертер систем счисления**  : ***Strings_and_Arrays*** *RadixConverter*
+<https://github.com/flash2048/CSharp/blob/master/Strings_and_Arrays/RadixConverter>
+
+======
