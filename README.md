@@ -10,3 +10,9 @@
 <https://github.com/flash2048/CSharp/blob/master/Strings_and_Arrays/RadixConverter>
 
 ======
+
+**Работа с числами любой длины**  : ***Strings_and_Arrays*** : *BigDigit*
+<https://github.com/flash2048/CSharp/blob/master/Strings_and_Arrays/BigDigit>
+Реализованы операции: +,-,*,/,%,<,>,<=,>=,!=,==
+
+======
