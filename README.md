@@ -1,8 +1,8 @@
 Реализация алгоритмов на C#
 ======
 
->**Получение всех перестановок из набора символов**  : ***Strings_and_Arrays*** *Permutations.cs*
->><https://github.com/flash2048/CSharp/blob/master/Strings_and_Arrays/Permutations.cs>
+>**Получение всех перестановок из набора символов**  : ***Strings_and_Arrays*** *Permutations*
+>><https://github.com/flash2048/CSharp/blob/master/Strings_and_Arrays/Permutations>
 
 ======
 
