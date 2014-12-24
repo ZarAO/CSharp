@@ -16,3 +16,8 @@
 >>>Реализованы операции: +,-,*,/,%,<,>,<=,>=,!=,==
 
 ======
+
+>**Бинарное поисковое дерево**
+>><https://github.com/flash2048/CSharp/tree/master/Data_Structures/BinaryTree>
+
+======
